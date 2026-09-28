@@ -1,4 +1,5 @@
 #include "TimeFormatter.h"
+#include "Time.h"
 #include <sstream>
 #include <iomanip>
 
