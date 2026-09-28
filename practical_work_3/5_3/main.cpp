@@ -5,6 +5,7 @@
 
 int main() {
     int totalSeconds;
+    std::cout << "Введите количество секунд(n):";
     std::cin >> totalSeconds;
 
     Time time = calculateTime(totalSeconds);
